@@ -1,0 +1,12 @@
+About
+=====
+
+This is an extension for Bugzilla that replaces the the user list which is display 
+if 'usemenuforusers' is enabled with a autocomplete text box. 
+
+
+Installation
+============
+
+Copy the AutoComplete directory into the extensions directory of your bugzilla instance
+
